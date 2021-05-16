@@ -1,4 +1,4 @@
-| Syntax      | Description | Test Text     |
+| Syntax      | Description | Test Text |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Header      | Hello       | Googlwee 3 3 |
+| Paragraph   | World| And more |
